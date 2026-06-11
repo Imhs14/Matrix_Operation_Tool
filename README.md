@@ -109,5 +109,3 @@ Feel free to check the [issues page](https://www.google.com/search?q=https://git
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-*** If you can share the programming language you used (e.g., Python, C++, Java) and the specific operations your tool supports, I can tailor this README to match your code exactly!
